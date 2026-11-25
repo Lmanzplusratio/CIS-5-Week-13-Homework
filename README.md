@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Run both programs, then explain why each helper takes `const &` and what your struct's fields hold.
 
-**Your demo:** _[add your link here](https://youtu.be/sXN7QzjOpJQ)_
+**Your demo:** _[LINK](https://youtu.be/sXN7QzjOpJQ)_
 
 ## What to build
 
